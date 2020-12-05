@@ -2,15 +2,15 @@
 
 본 Repository 는 [2020 데이터야놀자](https://datayanolja.github.io/) 의 `출근길에서 생각난 데이터 토이 프로젝트` 에 사용된 코드를 공개하는 것을 목적으로 합니다.
 
-## 세팅
+# 세팅
 
 사용한 python version 은 `3.6.4` 입니다.
 
 추가로 사용한 python package 들은 `requirements.txt` 에 정리되어 있습니다.
 
-## 사용법
+# 사용법
 
-### Crawler
+## Crawler
 
 `config.example.cfg` 의 이름을 바꾸거나 복사하여 `config.cfg` 를 만들고, [서울 열린데이터 광장](http://data.seoul.go.kr/) 에서 발급 받은 인증키를 입력합니다.
 (`authkey` 하위 이름은 취향에 맞추어 지정하시면 됩니다.)
@@ -31,8 +31,11 @@ $ python crawler.py Aries(config.cfg 에 사용한 key 이름)
 1-59/2 0-9 * * 1-5 ~/Workspace/train-de-train/run_crawler_odd.sh
 ```
 
+## Notebook
 
-### Note
+Jupyter 를 구동하고 `Example.ipynb` 를 참고하여 사용합니다.
+
+## Note
 
 * 우분투에서 자료가 없는 빈 파일을 삭제하는 경우 아래 명령어를 사용합니다.
 

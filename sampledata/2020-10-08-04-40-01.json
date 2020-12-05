@@ -1,0 +1,24 @@
+[
+  {
+    "beginRow": null,
+    "endRow": null,
+    "curPage": null,
+    "pageRow": null,
+    "totalCount": 1,
+    "rowNum": 1,
+    "selectedCount": 1,
+    "subwayId": "1063",
+    "subwayNm": "\uacbd\uc758\uc911\uc559\uc120",
+    "statnId": "1063075137",
+    "statnNm": "\uc6a9\ubb38",
+    "trainNo": "5009",
+    "lastRecptnDt": "20201008",
+    "recptnDt": "2020-10-08 04:39:28",
+    "updnLine": "0",
+    "statnTid": "1063075335",
+    "statnTnm": "\ubb38\uc0b0",
+    "trainSttus": "0",
+    "directAt": "0",
+    "lstcarAt": "0"
+  }
+]
